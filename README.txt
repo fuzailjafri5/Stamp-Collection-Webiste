@@ -1,6 +1,6 @@
 
 TITLE: 
-Stamp Collection is  - Responsive Free HTML5 website
+Stamp Collection is  - Responsive HTML5 CSS & JS website
 
 AUTHOR:
 DESIGNED & DEVELOPED By MD. fuzail ayaz
@@ -24,8 +24,6 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
-Icomoon Entypo
-https://icomoon.io/app/
 
 Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
